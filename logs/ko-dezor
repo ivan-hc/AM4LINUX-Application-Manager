@@ -1,0 +1,23 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "DEZOR": starting installation script
+
+--2025-02-12 23:14:17--  https://cdn.dezor.net/updates/linux/Dezor-v1.5.8-x86_64.AppImage
+Resolving cdn.dezor.net (cdn.dezor.net)... 104.21.51.210, 172.67.186.88, 2606:4700:3035::6815:33d2, ...
+Connecting to cdn.dezor.net (cdn.dezor.net)|104.21.51.210|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-02-12 23:14:18 ERROR 404: Not Found.
+
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "DEZOR"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================

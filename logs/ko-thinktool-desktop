@@ -1,0 +1,20 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "THINKTOOL-DESKTOP": starting installation script
+
+--2025-02-10 19:21:08--  https://thinktoolstatic.z13.web.core.windows.net/Thinktool%20Desktop%20Prototype.AppImage
+Resolving thinktoolstatic.z13.web.core.windows.net (thinktoolstatic.z13.web.core.windows.net)... failed: Name or service not known.
+wget: unable to resolve host address ‘thinktoolstatic.z13.web.core.windows.net’
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "THINKTOOL-DESKTOP"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================

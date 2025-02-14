@@ -1,0 +1,28 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "SLACKBACKUP": starting installation script
+
+--2025-02-08 20:26:55--  https://github.com/jcolag/SlackBackup/releases/download/v1.2/slack-backup-1.0.0-x86_64.AppImage
+Resolving github.com (github.com)... 140.82.113.4
+Connecting to github.com (github.com)|140.82.113.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://objects.githubusercontent.com/github-production-release-asset-2e65be/125621818/7ac8caa2-9e30-11e8-84c6-07e83eacc773?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250208T202655Z&X-Amz-Expires=300&X-Amz-Signature=69f45c4a9cb6d5f86de7c89f97269203ad06b8bb5acf056a54c4677e41baa85c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dslack-backup-1.0.0-x86_64.AppImage&response-content-type=application%2Foctet-stream [following]
+--2025-02-08 20:26:55--  https://objects.githubusercontent.com/github-production-release-asset-2e65be/125621818/7ac8caa2-9e30-11e8-84c6-07e83eacc773?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250208T202655Z&X-Amz-Expires=300&X-Amz-Signature=69f45c4a9cb6d5f86de7c89f97269203ad06b8bb5acf056a54c4677e41baa85c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dslack-backup-1.0.0-x86_64.AppImage&response-content-type=application%2Foctet-stream
+Resolving objects.githubusercontent.com (objects.githubusercontent.com)... 185.199.111.133, 185.199.108.133, 185.199.109.133, ...
+Connecting to objects.githubusercontent.com (objects.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 403 Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature.
+2025-02-08 20:26:56 ERROR 403: Server failed to authenticate the request. Make sure the value of Authorization header is formed correctly including the signature..
+
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "SLACKBACKUP"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================

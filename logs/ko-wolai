@@ -1,0 +1,23 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "WOLAI": starting installation script
+
+--2025-02-10 19:32:46--  https://cdn.wostatic.cn/dist/installers/wolai-.AppImage
+Resolving cdn.wostatic.cn (cdn.wostatic.cn)... 47.246.23.233, 47.246.23.230, 47.246.23.229, ...
+Connecting to cdn.wostatic.cn (cdn.wostatic.cn)|47.246.23.233|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2025-02-10 19:32:49 ERROR 404: Not Found.
+
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "WOLAI"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================
